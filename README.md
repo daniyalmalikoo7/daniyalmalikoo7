@@ -1,28 +1,35 @@
 # Hey, I'm Daniyal 👋
 
-**Senior AI & Full Stack Engineer** building production AI systems and automated development workflows.
+**Senior Software Engineer & GenAI Architect** — I build production AI systems that ship: RAG that cites its sources, voice agents, and multi-agent pipelines on AWS. Not demos.
 
-**7+ years** shipping enterprise applications. **40,000+ users** served. **99.5% uptime.** Now building my own products.
+**7+ years** shipping production software · **40,000+ users** served · **99.5% uptime** · **AWS Certified Generative AI Developer (Professional)**
+
+🌐 **[daniyalmalik.com](https://daniyalmalik.com)** — work, writing, a free AI Readiness Assessment, and an [AI twin you can talk to](https://daniyalmalik.com/agent).
 
 ---
 
 ### 🚀 What I'm Building
 
-**[ProposalPilot](https://github.com/daniyalmalikoo7/proposalpilot)** — AI-powered proposal generator that turns RFPs into tailored proposals in minutes, not days. Next.js 16, tRPC, pgvector RAG, Gemini 2.5 Flash.
+**[Preamble](https://gopreamble.com)** — production multi-agent RAG for Australian construction tendering: reads 50–150-page tenders → cited, priced quote drafts, verified to the source page. Founder & AI architect. Claude · pgvector · LlamaParse · Langfuse.
 
-**[OO7 AI](https://oo7ai.com)** — Production Voice AI platform where autonomous agents handle outbound calls, qualify leads, book meetings, and update CRMs mid-call. Co-architected end-to-end with Next.js, PostgreSQL, BullMQ, ElevenLabs, Twilio, and Kubernetes.
+**[OO7 AI](https://next.oo7ai.com)** — production Voice AI platform; autonomous agents run outbound calls end-to-end (qualify, handle objections, book, update CRM). 2.4M+ calls. Co-architected with Next.js, PostgreSQL, BullMQ, ElevenLabs, Twilio, Kubernetes.
+
+**[Dan's Lab](https://daniyalmalik.com/lab)** — turning production AI + design into products: GenAI consulting + a design studio, with more verticals coming.
+
+**[ProposalPilot](https://github.com/daniyalmalikoo7/proposalpilot)** — RFP → tailored proposals in minutes. Next.js 16 · tRPC · pgvector RAG.
 
 ---
 
 ### 🔧 The Workflow Collection
 
-I build automated SDLC pipelines for Claude Code — from idea to shipped product with enforced phase gates:
+Automated SDLC pipelines for Claude Code — idea to shipped product with enforced phase gates:
 
 | Workflow | What It Does | Agents |
 |----------|-------------|--------|
 | **[claude-workflow-ai-saas](https://github.com/daniyalmalikoo7/claude-workflow-ai-saas)** | Greenfield AI SaaS: idea → shipped product | 28 |
-| **[claude-workflow-rescue](https://github.com/daniyalmalikoo7/claude-workflow-rescue)** | Fix broken codebases with tool-first auditing | 21 |
+| **[claude-workflow-rescue](https://github.com/daniyalmalikoo7/claude-workflow-rescue)** | Fix broken codebases with tool-first auditing | 24 |
 | **[claude-workflow-devops](https://github.com/daniyalmalikoo7/claude-workflow-devops)** | Codify infrastructure as Terraform | 16 |
+| **[claude-workflow-ui-uplift](https://github.com/daniyalmalikoo7/claude-workflow-ui-uplift)** | Production-grade UI/UX uplift for React/Next | 15+ |
 
 > Shell hooks return `exit 2` — the AI cannot bypass phase gates. 60% of effort happens *before* any code is written.
 
@@ -30,26 +37,15 @@ I build automated SDLC pipelines for Claude Code — from idea to shipped produc
 
 ### 🛠 Tech Stack
 
-```
-AI/ML        LangChain · LangGraph · AWS Bedrock · Gemini · pgvector · RAG · Voice AI (ElevenLabs + Twilio)
+\`\`\`
+GenAI        Claude · LangChain · LangGraph · AWS Bedrock · pgvector · RAG · evals/guardrails · Voice AI (ElevenLabs + Twilio)
 Full Stack   TypeScript · Next.js · React · Node.js · tRPC · Prisma · PostgreSQL · Python · FastAPI
-Cloud        AWS (Lambda, ECS, Fargate, Step Functions) · Vercel · Supabase · Docker · Kubernetes
+Cloud        AWS (Lambda, ECS, Fargate, Step Functions, S3) · Azure · Kubernetes · Docker · Vercel
 Certified    AWS Generative AI Developer — Professional
-```
-
----
-
-### 📊 Recent Highlights
-
-- 🏗️ **Shipped 3 open-source workflow repos** with 65 total agents across 15 phases
-- 🎤 **Co-architected OO7 AI** — live Voice AI platform with paying customers
-- 📝 **Submitted to [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** (37K+ stars)
-- 🔨 **Building in public** on [LinkedIn](https://linkedin.com/in/malikdaniyalahmed)
+\`\`\`
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malikdaniyalahmed)
-[![Website](https://img.shields.io/badge/OO7_AI-000000?style=flat&logo=safari&logoColor=white)](https://oo7ai.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daniyalxmalik@gmail.com)
+🌐 **[daniyalmalik.com](https://daniyalmalik.com)** · [LinkedIn](https://linkedin.com/in/malikdaniyalahmed) · [AWS Cert ↗](https://www.credly.com/badges/8ec52c79-91dd-4865-8d8f-10d08cef0723) · [Email](mailto:daniyalxmalik@gmail.com)
